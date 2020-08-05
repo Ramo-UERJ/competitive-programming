@@ -5,3 +5,7 @@ Está pasta contém a solução dos exercícios do curso da plataforma Neps Acad
 ### Cursos:
 
  - Programação Básica para Competições de Programação (em C++). [Clique aqui](https://neps.academy/course/6)  para acessar o curso. 
+
+ - Link exercicios neps https://neps.academy/course/7
+
+ 
